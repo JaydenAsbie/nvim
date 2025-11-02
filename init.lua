@@ -22,3 +22,4 @@ require("lazy").setup("plugins")
 vim.diagnostic.config({ virtual_text = true })
 
 vim.opt.spell = false
+vim.cmd("colorscheme catppuccin")

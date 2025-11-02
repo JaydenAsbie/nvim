@@ -6,6 +6,5 @@ return {
           preset = "andromeda",
           transparent_bg = true,
       })
-      vim.cmd("colorscheme andromeda")
       end
 }
