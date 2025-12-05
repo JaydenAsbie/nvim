@@ -23,3 +23,4 @@ vim.diagnostic.config({ virtual_text = true })
 
 vim.opt.spell = false
 vim.cmd("colorscheme catppuccin")
+vim.opt.relativenumber = true
